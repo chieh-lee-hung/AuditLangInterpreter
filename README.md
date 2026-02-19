@@ -213,44 +213,6 @@ Future support plans include:
 - **GUI Integration**: Develop a graphical user interface for easier audit management.
 - **Cloud Integration**: Enable auditing of cloud-based infrastructures and services.
 
-## Contributing
-
-Contributions are welcome! Follow these steps to contribute:
-
-1. **Fork the Repository**
-2. **Create a Feature Branch**
-
-   ```bash
-   git checkout -b feature/YourFeature
-   ```
-
-3. **Commit Your Changes**
-
-   ```bash
-   git commit -m "Add your feature"
-   ```
-
-4. **Push to the Branch**
-
-   ```bash
-   git push origin feature/YourFeature
-   ```
-
-5. **Open a Pull Request**
-
-Ensure your code adheres to the project's coding standards and includes appropriate tests.
-
-## License
-
-This project is licensed under the **GNU General Public License (GPL) v3.0**. Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
-
-1. **Non-Commercial Use Only**: This software may not be used for commercial purposes without explicit written permission from the author.
-
-2. **Source Code Availability**: Any modified versions of this software must also be licensed under the GPL v3.0.
-
-3. **Preservation of License**: All copies of the software, including modified versions, must include this license notice.
-
-**Unauthorized commercial use of this software is strictly prohibited.**
 
 ## Contact
 
@@ -260,9 +222,3 @@ For inquiries or support, please contact:
 Email: [chiehlee.hung@gmail.com](mailto:chiehlee.hung@gmail.com)
 
 ---
-
-© 2024 AuditLang Interpreter Interface. All rights reserved.
-
----
-
-**Note:** The GNU General Public License (GPL) v3.0 itself does not restrict commercial use. If you intend to prohibit commercial use, consider using a different license or consult with a legal professional to create a custom license that meets your requirements. Combining GPL with additional restrictions may violate the terms of the GPL, leading to potential legal issues.
